@@ -30,4 +30,7 @@
 四个位置的视频集
 链接: https://pan.baidu.com/s/1HIxxRKlwmMwTrhI95fx9bg?pwd=1234 提取码: 1234
 
-补充：几个好用的画图网站：https://seaborn.org.cn/；https://cnsknowall.com/#/Home/Contain/BottomContainAll；https://www.matplotlib.net/stable/gallery/index.html
+补充：几个好用的画图网站：
+https://seaborn.org.cn/  
+https://cnsknowall.com/#/Home/Contain/BottomContainAll    
+https://www.matplotlib.net/stable/gallery/index.html    
