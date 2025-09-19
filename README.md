@@ -8,11 +8,11 @@
 
 ###  **资料全家桶**
 -  `全配套源码`：Python/Matlab完整可运行代码（**注释超详细！**）
--  `高颜值流程图`：Visio/PPT源文件（**直接复制进论文**👌）
+-  `高颜值流程图`：Visio/PPT源文件（**直接复制进论文**）
 -  `获奖论文模板`：Word 直接使用即可；
 ###  **战队Buff加持**
 -  **超硬核队友**：美赛F奖×1 + M奖×2 + 国赛二等奖×1
--  **真实带萌新**：2024华为杯「2带1实战案例」（Excel萌新→三天速成建模手✨）
+-  **真实带萌新**：2024华为杯「2带1实战案例」（Excel萌新→三天速成建模手）
 
 ---
 
@@ -29,3 +29,5 @@
 
 四个位置的视频集
 链接: https://pan.baidu.com/s/1HIxxRKlwmMwTrhI95fx9bg?pwd=1234 提取码: 1234
+
+补充：几个好用的画图网站：https://seaborn.org.cn/；https://cnsknowall.com/#/Home/Contain/BottomContainAll；https://www.matplotlib.net/stable/gallery/index.html
