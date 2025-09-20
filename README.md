@@ -34,3 +34,8 @@
 https://seaborn.org.cn/  
 https://cnsknowall.com/#/Home/Contain/BottomContainAll    
 https://www.matplotlib.net/stable/gallery/index.html    
+
+增加22-24的范文：
+来自123云盘的分享：2023年研究生数学建模竞赛......等3个文件
+链   接：https://www.123912.com/s/kqwxjv-aSaD3?pwd=wdXI
+提取码：wdXI
